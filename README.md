@@ -20,9 +20,9 @@
 
 ## 🔥 My GitHub Stats
 
-![Joe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoeDev000&show_icons=true&theme=radical)
+![Joe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-joee&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeDev000&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joee&layout=compact&theme=radical)
 
 ## 🌟 What I'm Working On
 - 🔭 Currently exploring software developement using C# & SQL
