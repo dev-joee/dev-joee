@@ -38,7 +38,7 @@
 
 🤝 Let's Connect at LinkedIn :)
 <p align="left">
-<a href="https://linkedin.com/in/JoeDev000" target="_blank">
+<a href="https://linkedin.com/in/dev-joe" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
 </a>
 </p>
