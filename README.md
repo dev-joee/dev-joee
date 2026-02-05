@@ -18,12 +18,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </p>
 
-## 🔥 My GitHub Stats
-
-![Joe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-joee&show_icons=true&theme=radical&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joee&layout=compact&theme=radical&cache_seconds=86400)
-
 ## 🌟 What I'm Working On
 - 🔭 Currently exploring software developement using C# & SQL
 - 🌱 Learning advanced algorithms and data structures
