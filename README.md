@@ -1,4 +1,4 @@
-# Hi there, I'm Joe Ali 👋
+# Hi there, I'm Yousef Ali 👋
 
 ## About Me
 - 🎓 20-year-old Computer Science student
